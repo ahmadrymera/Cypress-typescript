@@ -1,5 +1,5 @@
 # Cypress
-This automation is written in TypeScript (a strict syntactical superset of JavaScript and adds optional static typing to the language)
+This automation is written in TypeScript (a strict syntactical superset of JavaScript that adds optional static typing to the language)
 
 ## Running Tests
 
@@ -18,5 +18,8 @@ open cypress dashboard
 ```bash
 npx cypress open
 ```
+
+### Link Vide
+https://streamable.com/1xupt0
 
 ### Thanks
