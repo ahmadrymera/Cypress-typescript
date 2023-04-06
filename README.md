@@ -19,7 +19,7 @@ open cypress dashboard
 npx cypress open
 ```
 
-### Link Vide
+### Link Video
 https://streamable.com/1xupt0
 
 ### Thanks
